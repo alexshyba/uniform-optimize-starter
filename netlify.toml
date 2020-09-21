@@ -6,7 +6,7 @@
   incoming-hooks = ["Uniform"]
 
 [template.environment]
-  REACT_APP_OPTIMIZE_API_KEY = 'your Uniform Optimize API key'
-  REACT_APP_OPTIMIZE_ORIGIN = 'https://uniformoptimize.netlify.app'
-  REACT_APP_CONTENTFUL_SPACE_ID = 'paste your Contentful space ID'
-  REACT_APP_CONTENTFUL_ACCESS_TOKEN = 'paste a Contentful CDA access token to pull content'
+  REACT_APP_OPTIMIZE_API_KEY = 'Uniform Optimize API Key'
+  REACT_APP_OPTIMIZE_ORIGIN = 'Uniform Optimize Origin'
+  REACT_APP_CONTENTFUL_SPACE_ID = 'Contentful Space ID'
+  REACT_APP_CONTENTFUL_ACCESS_TOKEN = 'Contentful Access Token'
